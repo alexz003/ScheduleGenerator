@@ -1,0 +1,27 @@
+c:\users\alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.Form1.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.Properties.Resources.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.SalesInfoDialogue.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.GenerateResource.Cache
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\Scheduler\Scheduler\obj\Debug\Scheduler.DailySalesDialog.resources
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.DailySalesDialog.resources
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.Form1.resources
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.Properties.Resources.resources
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.SalesInfoDialogue.resources
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.GenerateResource.Cache
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.NewEmployeeDialog.resources
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\bin\Debug\Scheduler.exe.manifest
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\bin\Debug\Scheduler.application
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.exe.manifest
+C:\Asus WebStorage\johnalexmarich@gmail.com\MySyncFolder\Scheduler\Scheduler\obj\Debug\Scheduler.application
